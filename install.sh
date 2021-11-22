@@ -67,8 +67,10 @@ wget -O 3gb "https://raw.githubusercontent.com/Gasstrum/user/main/3gb.sh"
 wget -O 150mb "https://raw.githubusercontent.com/Gasstrum/user/main/150mb.sh"
 wget -O 500mb "https://raw.githubusercontent.com/Gasstrum/user/main/500mb.sh"
 wget -O cookie "https://raw.githubusercontent.com/Gasstrum/user/main/cookie.sh"
+wget -O uninstall "https://raw.githubusercontent.com/Gasstrum/user/main/uninstall.sh"
 chmod +x user
 chmod +x 3gb
 chmod +x 150mb
 chmod +x 500mb
 chmod +x cookie
+chmod +x uninstall
