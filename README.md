@@ -1,7 +1,7 @@
 # VPS-SC
  NOTFORSALE
 
- <h2 align="center">AutoScript Install VPN By Harithwyd <img src="https://img.shields.io/badge/Version-2.0.4-blue.svg"></h2>
+ <h2 align="center">AutoScript Install VPN By secret007 <img src="https://img.shields.io/badge/Version-2.0.4-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 ## Installation
 
   ```html
-  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/(github-anda)/VPS-SC/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Gasstrum/scriptvpss/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 
   ```
 
@@ -50,4 +50,4 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 
 ## Credit :
 
-*   Modded Script by    t.me/Harithwyd
+*   Modded Script by    t.me/secret007
